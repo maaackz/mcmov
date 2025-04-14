@@ -1,0 +1,62 @@
+{
+  "chicken_jockey": {
+    "sounds": [
+      "mcmov:chicken_jockey"
+    ]
+  },
+  "ender_pearl": {
+    "sounds": [
+      "mcmov:ender_pearl"
+    ]
+  },
+  "water_bucket": {
+    "sounds": [
+      "mcmov:water_bucket"
+    ]
+  },
+  "release": {
+    "sounds": [
+      "mcmov:release"
+    ]
+  },
+  "flinton_steel": {
+    "sounds": [
+      "mcmov:flinton_steel"
+    ]
+  },
+  "overworld": {
+    "sounds": [
+      "mcmov:overworld"
+    ]
+  },
+  "nether": {
+    "sounds": [
+      "mcmov:nether"
+    ]
+  },
+  "crafting_table": {
+    "sounds": [
+      "mcmov:crafting_table"
+    ]
+  },
+  "elytra_wingsuits": {
+    "sounds": [
+      "mcmov:elytra_wingsuits"
+    ]
+  },
+  "minecraft": {
+    "sounds": [
+      "mcmov:minecraft"
+    ]
+  },
+  "lava_chicken": {
+    "sounds": [
+      "mcmov:lava_chicken"
+    ]
+  },
+  "ender_pearl_last": {
+    "sounds": [
+      "mcmov:ender_pearl_last"
+    ]
+  }
+}

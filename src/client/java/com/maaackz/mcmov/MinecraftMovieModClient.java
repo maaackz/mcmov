@@ -1,5 +1,6 @@
 package com.maaackz.mcmov;
 
+import com.maaackz.mcmov.sound.SoundManager;
 import net.fabricmc.api.ClientModInitializer;
 
 public class MinecraftMovieModClient implements ClientModInitializer {

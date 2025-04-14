@@ -1,11 +1,21 @@
 {
-	"required": true,
-	"package": "com.maaackz.mcmov.mixin.client",
-	"compatibilityLevel": "JAVA_17",
-	"client": [
-		"ExampleClientMixin"
-	],
-	"injectors": {
-		"defaultRequire": 1
-	}
+  "required": true,
+  "package": "com.maaackz.mcmov.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "AbstractFurnaceBlockEntityMixin",
+    "BlockEntityMixin",
+    "ElytraItemMixin",
+    "EnderPearlEntityMixin",
+    "HandledScreenMixin",
+    "InventoryScreenMixin",
+    "ItemStackMixin",
+    "LivingEntityMixin",
+    "NetherPortalBlockMixin",
+    "ScreenSoundsMixin",
+    "TitleScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
 }
